@@ -1,4 +1,4 @@
-# AI-productivty-suite
+⁸# AI-productivty-suite
 AI Workplace Productivity Assistant Pro
 
 Project Overview
@@ -138,9 +138,24 @@ Developed as part of the AI Skills Acceleration Programme (ASA 5).
 
 Live Application
 
-
+https://preview--taskwise-ai-assist.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9%2EeyJ1c2VyX2lkIjoiWjNCT3pHZlBBVlhtS0VwWFpDQXNja0llVVIzMiIsInByb2plY3RfaWQiOiI3MjAwZjE1Yy0zNWQ0LTQyYjktYWFlYi1kZDQ5YjhiYTZiMjUiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjcyMDBmMTVjLTM1ZDQtNDJiOS1hYWViLWRkNDliOGJhNmIyNSIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3ODEyMTU5ODUsIm5iZiI6MTc4MDYxMTE4NSwiaWF0IjoxNzgwNjExMTg1fQ%2EJmB5Q_QC8d_1J3a3A5aQzdrObDQk5UeQJHhGJHSMYKp6evC-Qpa3xpIQ-V8j6H4Tm63fm1B5Sw5lSST-96trgGon53bJeFwMEgKgoqHwHcE5scJFWCD9vqGG1ecoepRst52kL36e6_UVDpMrFwN9gbO6KY3ATxzYHJM2i_ym0gUhDKygmT4QYuF8xzXVfYXipotMiqwYtRp_MwmXJbf7yClzleLgREcQiIZWmc1HJhGTCjvCGLZdXS4Hu7myIHGoSNE_dpULZE2YnM1ECGyZm7SolLlV6FWqnxp4pEF2-LKaYhhyT-zDrY-oR1ANh9oH2S2Qo-wsm-brxtAzH9mRijsxglqBYyEaB6aNcElQg7-pVJMMpGD_OgK7ygJitfw0akjXNBYmidr1UcW_eSsvixdspe33Mk4MDxNvwgwX-unggz_eIol64k6v3YLFFxPpVezYRqAhx7w_0VEC8dzErx2Fw2LR5Y2Kr8fGC_DVKwp7flZxMB7jADPnroW9nXQVMWC45a3oc7o4uKQHuJe-lO9WJu9ga2WsWBIlXKaMibxRCR1mgnQHqVCGSCXY-GzCNS5HvBESzVIIZfnvV4N97RK_-w25BjHazoQev53baRdOQNJcusmt2Nj1joCeZW6M6rcRmSQgp_j8KRorT12AlkmKeOjW_Zlg680vIyUxkX4
 
 ---
 
-Screenshots 
+S## Screenshots
+
+### Dashboard
+![Dashboard](Screenshot_20260604_125329_Chrome.jpg)
+
+### Meeting Notes Summarizer
+![Meeting Summarizer](Screenshot_20260604_125326_Chrome.jpg)
+
+### Task Planner
+![Task Planner](Screenshot_20260604_125318_Chrome.jpg)
+
+### Research Assistant
+![Research Assistant](Screenshot_20260604_125254_Chrome.jpg)
+
+### AI Chatbot
+![AI Chatbot](Screenshot_20260604_125247_Chrome.jpg)
 
